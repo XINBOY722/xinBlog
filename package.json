@@ -26,6 +26,7 @@
     "hexo-theme-async": "^2.2.5",
     "hexo-theme-fluid": "^1.9.8",
     "hexo-theme-landscape": "^1.0.0",
+    "hexo-wordcount": "^6.0.1",
     "nunjucks": "^3.2.4"
   }
 }

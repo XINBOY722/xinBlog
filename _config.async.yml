@@ -160,3 +160,29 @@ comment:
     theme:
       light: light
       dark: transparent_dark
+
+# # Displays outdated notice for a post | 文章过期提醒
+notice_outdate:
+  enable: false # 启用
+  style: flat # style | 样式  <[simple,flat]>
+  limit_day: 365 # When will it be shown | 过期提醒天数
+  position: top # position | 位置 <[top,bottom]>
+# #### Article configuration end ###
+
+wordcount:
+  enable: true # enable | 开启
+  count: true # count | 显示字数
+  time: true # read time | 显示阅读时间
+
+
+# Think of swup as being pjax on steroids. The concepts are similar to those used in barba.js or other transition libraries.
+# https://swup.js.org/
+# Whether swup is enabled | Swup 插件
+swup: true # 启用
+
+# Individually configured friend link information | 友链说明配置
+links_info:
+  name: XIN's Blog # Site title | 站点标题
+  url: https://xinboy722.github.io/ # Site url | 站点地址
+  describe: 兴趣使然。 # Describe | 友链介绍
+  rule_text: 暂不接受个人博客以外的友链申请，确保您的网站内容积极向上，文章至少30篇，原创70%以上，部署HTTPS。 # 友链规则
