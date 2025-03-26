@@ -1,0 +1,162 @@
+theme:
+  switch: true
+  default: style-dark
+
+user:
+  name: konoXIN
+  first_name: Blog
+  last_name: XIN's 
+  email: cxhaoxs@outlook.com
+  domain: https://xinboy722.github.io/
+  avatar: https://avatars.githubusercontent.com/u/116702236?s=400&u=ffaec22255540ba50d467ff7503d3dbd8b0e2cb9&v=4
+  describe: 网站简介。
+  rule_text: 暂不接受个人博客以外的友链申请，确保您的网站内容积极向上，文章至少30篇，原创70%以上，部署HTTPS。
+
+favicon:
+  logo: logo.svg
+  icon16: favicon-16x16.png
+  icon32: favicon-32x32.png
+  apple_touch_icon: apple-touch-icon.png
+  webmanifest: /site.webmanifest
+  visibilitychange: true
+  hidden: failure.ico
+  show_text: (/≧▽≦/)咦！又好了！
+  hide_text: (●—●)喔哟，崩溃啦！
+
+
+assets:
+  third_party_provider: https://npm.elemecdn.com
+
+# 友情链接
+sidebar:
+  info: # 个人信息
+    - key: ADDRESS
+      val: TIANJIN
+    - key: AGE
+      val: 22
+  # 打字动画
+  typed_text_prefix: I`m
+  typed_text: ["Web Developer"]
+  social: # 社交地址
+    - name: github
+      icon: fab fa-github
+      url: https://github.com/XINBOY722
+    - name: gitee
+      icon: fab fa-git-square
+      url: https://gitee.com/xinboy22
+    - name: csdn
+      icon: fab fa-css3-alt
+      url: https://blog.csdn.net/weixin_51926913?spm=1000.2115.3001.10640
+    - name: wakatime
+      icon: far fa-window-restore
+      url: https://wakatime.com/@konoXIN
+
+#横幅
+banner:
+  index:
+    type: img
+    bgurl: 
+      - bannerTwo.png
+    banner_title: 枕上诗书闲处好，<br>门前风景雨来佳。
+    banner_text: Hi my new friend!
+  archive:
+    type: img
+    bgurl: 
+      - bannerOne.png
+    banner_title: 磨盘战地人犹识，<br>磷火常同日色鲜。
+    banner_text: Hi my new friend!
+  links:
+    type: img
+    bgurl: 
+      - bannerThree.png
+    banner_title: 鸟宿池边树，<br>僧敲月下门。
+    banner_text: Hi my new friend!
+  comment:
+    type: img
+    bgurl: 
+      - bannerFour.png
+    banner_title: 寂寞嫦娥舒广袖，<br>万里长空且为忠魂舞。
+    banner_text: Hi my new friend!
+  about:
+    type: img
+    bgurl: 
+      - bannerFive.png
+    banner_title: 文质彬彬，<br>然后君子。
+    banner_text: Hi my new friend!
+  categories:
+    type: img
+    bgurl: 
+      - bannerFive.png
+    banner_title: 文质彬彬，<br>然后君子。
+    banner_text: Hi my new friend!
+  photos:
+    type: img
+    bgurl: 
+      - bannerFive.png
+    banner_title: 文质彬彬，<br>然后君子。
+    banner_text: Hi my new friend!
+# 导航栏
+top_bars:
+  - title: home
+    url: /
+  - title: archives
+    url: /archives/
+    noswup: true
+  # - title: categories
+  #   url: /categories/
+  - title: links
+    url: /links/
+  - title: about
+    url: /about/
+  # - title: categories
+  #   url: /categories/
+  #   noswup: true
+
+footer:
+  powered:
+    enable: true
+  copyright_year: 2024
+  live_time:
+    enable: true
+    prefix: footer.tips
+    start_time: 04/10/2024 17:00:00
+  custom_text: <a href="https://github.com/XINBOY722/XINBOY722.github.io" rel="noopener" target="_blank"> Github Pages </a>
+
+highlight:
+  theme: true
+  title: default
+  copy: true
+  lang: false
+  code_word_wrap: true
+  height_limit: 200 # 超出时，显示折叠按钮
+
+about:
+  insert: none # 插入规则 before（插入在内容前） | after（插入在内容后） | none（不插入）
+  title: 天行健，君子以自强不息；地势坤，君子以厚德载物 # 标题
+  introduction: 感谢您能够饶有兴致地浏览这个页面。建立这个 Blog 的初衷是兴趣爱好，记录自己的学习笔记，顺便分享自己的一些想法和感悟。 # 个人简单描述
+  blog:  <ul class="trm-list"><li>程序：<a href="https://hexo.io/zh-cn/" style="font-weight:700;" target="_blank" rel="nofollow">Hexo</a></li><li>主题：<a href="https://hexo-theme-async.imalun.com/" style="font-weight:700;" target="_blank" rel="nofollow">Hexo-theme-async</a></li><li>托管：<a href="https://github.com/" style="font-weight:700;" target="_blank" rel="nofollow">Github Pages</a></li></ul> # 博客信息
+  privacy: 本网站不会追踪访客行为，且不要求访客提供任何敏感信息（比如真实姓名、身份证号码、手机号等），因而也不存在任何隐私泄漏问题。访客参与评论，必须遵守法律法规和基本道德规范，文明礼貌。严禁发布任何有关淫秽、反动、暴力、博彩、恐吓、低俗的内容或违法信息，在尊重言论自由的同时请保持和平与理性。请勿对他人采取不友好的评论或其它过激行为。<br><br>本博客采用 知识产权署名-非商业性使用 4.0 国际许可协议 进行许可。<br> 转载前请联系作者获得许可，并注明原文链接。如有侵权，请留言告知，我会一周内删除。谢谢！ # 隐私权说明
+
+## comment
+comment:
+  Comments:
+    enable: false
+    env: # 腾讯云环境id
+  twikoo:
+    enable: false
+    envId: https://twikoo-vercel-xinboy722s-projects.vercel.app/ # 腾讯云环境id
+  # region: # 环境地域，默认为 ap-shanghai，如果您的环境地域不是上海，需传此参数
+  # option: # 用于区分不同文章的自定义 js 路径，如果您的文章路径不是 location.pathname，需传此参数
+  giscus:
+    enable: false
+    repo:
+    repo-id:
+    category:
+    category-id:
+    mapping: pathname
+    reactions-enabled: 1
+    emit-metadata: 0
+    lang: zh-CN
+    theme:
+      light: light
+      dark: transparent_dark
