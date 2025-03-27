@@ -119,7 +119,7 @@ footer:
   live_time:
     enable: true
     prefix: footer.tips
-    start_time: 04/10/2024 17:00:00
+    start_time: 04/10/2024 00:00:00
   custom_text: <a href="https://github.com/XINBOY722/XINBOY722.github.io" rel="noopener" target="_blank"> Github Pages </a>
 
 highlight:
