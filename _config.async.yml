@@ -186,3 +186,7 @@ links_info:
   url: https://xinboy722.github.io/ # Site url | 站点地址
   describe: 兴趣使然。 # Describe | 友链介绍
   rule_text: 暂不接受个人博客以外的友链申请，确保您的网站内容积极向上，文章至少30篇，原创70%以上，部署HTTPS。 # 友链规则
+
+error_img:
+  flink: /404.gif
+  post_page: /404.jpg
