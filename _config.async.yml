@@ -54,45 +54,45 @@ sidebar:
 #横幅
 banner:
   index:
-    type: img
-    bgurl: 
-      - bannerTwo.png
+    type: video
+    bgurl:  https://cdn.moji.com/websrc/video/autumn20190924.mp4
+      # - bannerTwo.png
     banner_title: 枕上诗书闲处好，<br>门前风景雨来佳。
     banner_text: Hi my new friend!
   archive:
-    type: img
+    type: video
     bgurl: 
-      - bannerOne.png
+      - https://cdn.moji.com/websrc/video/autumn20190924.mp4
     banner_title: 磨盘战地人犹识，<br>磷火常同日色鲜。
     banner_text: Hi my new friend!
   links:
-    type: img
+    type: video
     bgurl: 
-      - bannerThree.png
+      - https://cdn.moji.com/websrc/video/autumn20190924.mp4
     banner_title: 鸟宿池边树，<br>僧敲月下门。
     banner_text: Hi my new friend!
   comment:
-    type: img
+    type: video
     bgurl: 
-      - bannerFour.png
+      - https://cdn.moji.com/websrc/video/autumn20190924.mp4
     banner_title: 寂寞嫦娥舒广袖，<br>万里长空且为忠魂舞。
     banner_text: Hi my new friend!
   about:
-    type: img
+    type: video
     bgurl: 
-      - bannerFive.png
+      - https://cdn.moji.com/websrc/video/autumn20190924.mp4
     banner_title: 文质彬彬，<br>然后君子。
     banner_text: Hi my new friend!
   categories:
-    type: img
+    type: video
     bgurl: 
-      - bannerFive.png
+      - https://cdn.moji.com/websrc/video/autumn20190924.mp4
     banner_title: 文质彬彬，<br>然后君子。
     banner_text: Hi my new friend!
   photos:
-    type: img
+    type: video
     bgurl: 
-      - bannerFive.png
+      - https://cdn.moji.com/websrc/video/autumn20190924.mp4
     banner_title: 文质彬彬，<br>然后君子。
     banner_text: Hi my new friend!
 # 导航栏
