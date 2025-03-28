@@ -16,7 +16,7 @@ cover: /images/VUE3引入字体问题/image3.png
 出现如下的警告
 ![spFrou](/images/VUE3引入字体问题/image2.png)
 
-这个时候是因为ttf格式解析失败导致的，需要用根据转为woff和woff2
+这个时候是因为ttf格式解析失败导致的，需要用工具转为woff和woff2
 
 使用网站把ttf转为woff和woff2：
 
