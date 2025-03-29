@@ -1,8 +1,8 @@
 - name: kono新子
   url: https://blog.csdn.net/weixin_51926913?spm=1000.2115.3001.5343
-  image: https://profile-avatar.csdnimg.cn/db17928cb63c4db289008bafde417c84_weixin_51926913.jpg!1
+  image: /images/Friendly/konoXIN_csdn.jpg
   desc: 自然不会有悲痛的来袭。
 - name: 清风
   url: https://blog.csdn.net/qingfengmax
-  image: https://linux.do/user_avatar/linux.do/mintrax/144/365911_2.png
+  image: /images/Friendly/清风.png
   desc: 你还年轻，依旧漂亮
